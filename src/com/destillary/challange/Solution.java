@@ -73,7 +73,7 @@ Output
 
 *Bonus Points*
 
-Lock screen combination: 93553663
+Lock screen combination: 93553663 "WELLDONE"
 
 */
 
